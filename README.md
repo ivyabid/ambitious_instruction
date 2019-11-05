@@ -1,4 +1,5 @@
 ## Predicting Ambitious Instruction in CPS Schools
+[Project Blog](https://ivyabid.blogspot.com/2019/10/predicting-ambitious-instruction-at-cps.html)
 
 This project involved two parts that are represented by two separate notebooks in the 'code' folder.
 
